@@ -6,3 +6,5 @@
  <br>
 🦈 Konto stworzone dla umożliwienia pracy grupowej w ramach przedmiotu narzędzia informatyczne.
 
+### Moja strona
+[strona](https://annamist.github.io/)
