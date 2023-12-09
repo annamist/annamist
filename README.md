@@ -9,7 +9,7 @@
 ### Moja strona
 [strona](https://annamist.github.io/)
 
-### Fork repozytorium związanego z arytkułem z Papers with Code
+### Artykuł i związane z nim repozytorium z Papers with Code
 
-[Link do strony wybranego arykułu](https://paperswithcode.com/paper/stylecrafter-enhancing-stylized-text-to-video)
+[Link do strony wybranego arykułu](https://paperswithcode.com/paper/stylecrafter-enhancing-stylized-text-to-video) <br>
 [link do repozytorium](https://github.com/GongyeLiu/StyleCrafter)
